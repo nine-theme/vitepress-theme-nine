@@ -1,0 +1,31 @@
+{
+  "name": "@nine-theme/cli",
+  "version": "0.0.0-alpha.0",
+  "description": "nine theme 命令行",
+  "keywords": [
+    "nine"
+  ],
+  "author": "wang jia <wangjia_1919@163.com>",
+  "homepage": "https://github.com/nine-theme/vitepress-theme-nine#readme",
+  "license": "MIT",
+  "main": "lib/cli.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nine-theme/vitepress-theme-nine.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/nine-theme/vitepress-theme-nine/issues"
+  },
+  "devDependencies": {
+  }
+}

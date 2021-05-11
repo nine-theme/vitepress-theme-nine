@@ -1,0 +1,9 @@
+{
+  "useWorkspaces": true,
+  "npmClient": "yarn",
+  "packages": [
+    "packages/*",
+    "packages/@nine-theme/*"
+  ],
+  "version": "0.0.0-alpha.0"
+}
