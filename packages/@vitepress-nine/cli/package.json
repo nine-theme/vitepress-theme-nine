@@ -1,5 +1,5 @@
 {
-  "name": "@nine-theme/cli",
+  "name": "@vitepress-nine/cli",
   "version": "0.0.0-alpha.0",
   "description": "nine theme 命令行",
   "keywords": [

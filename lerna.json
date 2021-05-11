@@ -3,7 +3,7 @@
   "npmClient": "yarn",
   "packages": [
     "packages/*",
-    "packages/@nine-theme/*"
+    "packages/@vitepress-nine/*"
   ],
   "version": "0.0.0-alpha.0"
 }

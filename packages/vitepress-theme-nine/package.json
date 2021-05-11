@@ -1,5 +1,5 @@
 {
-  "name": "@nine-theme/vitepress-theme-nine",
+  "name": "@vitepress-nine/vitepress-theme-nine",
   "version": "0.0.0-alpha.0",
   "description": "vitepress theme nine",
   "main": "index.js",

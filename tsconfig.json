@@ -1,0 +1,9 @@
+{
+    "extends": "./tsconfig.base.json",
+    "references": [
+      { "path": "./packages/@vitepress-nine/cli/tsconfig.build.json" },
+      { "path": "./packages/vitepress-theme-nine/tsconfig.build.json" }
+    ],
+    "files": []
+  }
+  
